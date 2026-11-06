@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Hydro Vision: water teardrop gem on a Fontaine gold mount -->
+  <circle cx="32" cy="32" r="30" fill="#1a2540"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#d4b86a" stroke-width="2.5"/>
+  <path d="M32 10c9 12.5 18 23 18 33a18 18 0 1 1-36 0c0-10 9-20.5 18-33Z" fill="#3d6fc4" stroke="#d4b86a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 10c9 12.5 18 23 18 33a18 18 0 1 1-36 0c0-10 9-20.5 18-33Z" fill="url(#furina-gem)"/>
+  <defs>
+    <linearGradient id="furina-gem" x1="20" y1="18" x2="44" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fb3d9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2c5aa0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="25.5" cy="30" rx="4.5" ry="7" transform="rotate(-24 25.5 30)" fill="#c8ecf8" opacity="0.8"/>
+</svg>
