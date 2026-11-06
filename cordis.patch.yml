@@ -1,0 +1,4 @@
+- insert:
+    - id: furina-theme
+      name: '@local/furina-theme'
+      config: {}
